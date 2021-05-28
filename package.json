@@ -1,0 +1,13 @@
+{
+  "name": "cf-fullstack-meet-app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/anilkk/cf-fullstack-meet-app",
+  "author": "Anil Kumar <anilbms75@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "commit": "^0.0.4",
+    "git-cz": "^4.7.6"
+  }
+}
