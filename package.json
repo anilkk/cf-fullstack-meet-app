@@ -6,8 +6,10 @@
   "author": "Anil Kumar <anilbms75@gmail.com>",
   "license": "MIT",
   "private": false,
+  "scripts": {
+    "commit": "git-cz"
+  },
   "dependencies": {
-    "commit": "^0.0.4",
     "git-cz": "^4.7.6"
   }
 }
