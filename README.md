@@ -9,5 +9,4 @@ Feature: SHOW/HIDE AN EVENT'S DETAILS
   Scenario: An event element is collapsed by default
     Given User is on the Meet app
     Then Event details are collapsed
-
 ```
